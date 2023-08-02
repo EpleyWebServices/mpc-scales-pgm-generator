@@ -1,0 +1,20 @@
+# Build output directories
+x64 Debug/
+x64 Release/
+
+# Visual Studio generated files
+.vs
+*.filters
+*.user
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sdf
+*.opensdf
+*.suo
+*.obj
+*.exe
+*.pdb
+
+/src/dist/ejs
+/src/dist/scales
